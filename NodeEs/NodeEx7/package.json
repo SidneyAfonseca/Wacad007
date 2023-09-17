@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js mypage",
+        "start:prod": "node index.js mypage"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
